@@ -1,0 +1,3 @@
+annotationClass: com.appops.contact.core.Contact
+modules:
+- com.appops.contact.injection.ContactSlimModule

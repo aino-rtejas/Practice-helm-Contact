@@ -1,0 +1,4 @@
+com/appops/contact/app/ContactInitializer.class
+com/appops/contact/injection/ContactModule.class
+com/appops/contact/app/ContactEntryPoint.class
+com/appops/contact/impl/HelloServiceImpl.class

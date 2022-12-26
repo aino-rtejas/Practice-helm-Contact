@@ -1,0 +1,1 @@
+FROM ghcr.io/appops-platform/appops-dev-service-store-1.0-rc-5:latest

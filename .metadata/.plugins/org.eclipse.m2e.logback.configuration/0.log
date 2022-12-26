@@ -1,0 +1,472 @@
+2022-12-16 09:40:06,742 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-16 09:42:22,915 [Worker-27: Creating appops-br-slim-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/ainosoft/helm Appops Service/contactbook/pom.xml
+2022-12-16 09:42:23,428 [Worker-27: Creating appops-br-slim-archetype] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook/pom.xml.
+2022-12-16 09:42:24,547 [Worker-27: Creating appops-br-slim-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook/src/main/java
+2022-12-16 09:42:24,548 [Worker-27: Creating appops-br-slim-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contactbook/src/main/resources
+2022-12-16 09:42:24,549 [Worker-27: Creating appops-br-slim-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook/src/test/java
+2022-12-16 09:42:24,640 [Worker-27: Creating appops-br-slim-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-12-16 09:42:25,436 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:42:25,438 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:42:25,440 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:42:25,440 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook/src/test/resources
+2022-12-16 09:43:35,507 [Worker-29: Creating appops-br-impl-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/ainosoft/helm Appops Service/contactbook-impl/pom.xml
+2022-12-16 09:43:35,550 [Worker-29: Creating appops-br-impl-archetype] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook-impl:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook-impl/pom.xml.
+2022-12-16 09:43:35,810 [Worker-29: Creating appops-br-impl-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook-impl/src/main/java
+2022-12-16 09:43:35,810 [Worker-29: Creating appops-br-impl-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contactbook-impl/src/main/resources
+2022-12-16 09:43:35,810 [Worker-29: Creating appops-br-impl-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook-impl/src/test/java
+2022-12-16 09:43:35,861 [Worker-29: Creating appops-br-impl-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-12-16 09:43:36,253 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:43:36,253 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:43:36,254 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:43:36,254 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:44:31,813 [Worker-30: Creating appops-br-slim-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/ainosoft/helm Appops Service/contactbook-slim/pom.xml
+2022-12-16 09:44:31,831 [Worker-30: Creating appops-br-slim-archetype] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook-slim:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook-slim/pom.xml.
+2022-12-16 09:44:32,050 [Worker-30: Creating appops-br-slim-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook-slim/src/main/java
+2022-12-16 09:44:32,050 [Worker-30: Creating appops-br-slim-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contactbook-slim/src/main/resources
+2022-12-16 09:44:32,050 [Worker-30: Creating appops-br-slim-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook-slim/src/test/java
+2022-12-16 09:44:32,082 [Worker-30: Creating appops-br-slim-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-12-16 09:44:32,353 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:44:32,354 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:44:32,355 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:44:32,355 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-slim/src/test/resources
+2022-12-16 09:45:13,040 [Worker-30: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook-impl:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook-impl/pom.xml.
+2022-12-16 09:45:13,135 [Worker-30: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contactbook-slim: com.appops:contactbook-slim:0.0.1-SNAPSHOT with classifier  to /contactbook-slim/target/classes
+2022-12-16 09:45:13,315 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:13,317 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:45:13,317 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:13,318 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:45:14,668 [Worker-30: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contactbook-slim: com.appops:contactbook-slim:0.0.1-SNAPSHOT with classifier  to /contactbook-slim/target/classes
+2022-12-16 09:45:14,673 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:14,675 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:45:14,675 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:14,676 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:45:28,364 [Worker-29: Launching Executing clean in _home_ainosoft_helm Appops Service_contactbook-slim] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ainosoft/helm Appops Service/contactbook-slim
+2022-12-16 09:45:28,365 [Worker-29: Launching Executing clean in _home_ainosoft_helm Appops Service_contactbook-slim] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-12-16 09:45:29,487 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:29,487 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:45:29,488 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:29,489 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:45:29,496 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:29,497 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:45:29,498 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:29,498 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-slim/src/test/resources
+2022-12-16 09:45:46,322 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-16 09:45:46,393 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook-impl:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook-impl/pom.xml.
+2022-12-16 09:45:46,483 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contactbook-slim: com.appops:contactbook-slim:0.0.1-SNAPSHOT with classifier  to /contactbook-slim/target/classes
+2022-12-16 09:45:46,491 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook-slim:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook-slim/pom.xml.
+2022-12-16 09:45:46,766 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook-slim/src/main/java
+2022-12-16 09:45:46,766 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contactbook-slim/src/main/resources
+2022-12-16 09:45:46,766 [Worker-31: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook-slim/src/test/java
+2022-12-16 09:45:46,838 [Worker-31: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-12-16 09:45:47,142 [Worker-32: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contactbook-slim: com.appops:contactbook-slim:0.0.1-SNAPSHOT with classifier  to /contactbook-slim/target/classes
+2022-12-16 09:45:47,153 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:47,154 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:45:47,156 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:47,156 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:45:47,242 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:47,243 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:45:47,244 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:47,244 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-slim/src/test/resources
+2022-12-16 09:45:48,397 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:48,397 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:45:48,398 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:48,398 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:45:55,312 [Worker-30: Launching Executing clean in _home_ainosoft_helm Appops Service_contactbook-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ainosoft/helm Appops Service/contactbook-impl
+2022-12-16 09:45:55,313 [Worker-30: Launching Executing clean in _home_ainosoft_helm Appops Service_contactbook-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-12-16 09:45:56,429 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:56,429 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:45:56,430 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:45:56,430 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:46:02,895 [Worker-31: Launching Executing install in _home_ainosoft_helm Appops Service_contactbook-slim] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ainosoft/helm Appops Service/contactbook-slim
+2022-12-16 09:46:02,895 [Worker-31: Launching Executing install in _home_ainosoft_helm Appops Service_contactbook-slim] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-16 09:46:05,074 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:46:05,075 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:46:05,075 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:46:05,076 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-slim/src/test/resources
+2022-12-16 09:46:17,913 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-16 09:46:18,012 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook-impl:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook-impl/pom.xml.
+2022-12-16 09:46:18,097 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contactbook-slim: com.appops:contactbook-slim:0.0.1-SNAPSHOT with classifier  to /contactbook-slim/target/classes
+2022-12-16 09:46:18,218 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook-slim:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook-slim/pom.xml.
+2022-12-16 09:46:18,715 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook-impl/src/main/java
+2022-12-16 09:46:18,715 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contactbook-impl/src/main/resources
+2022-12-16 09:46:18,716 [Worker-32: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook-impl/src/test/java
+2022-12-16 09:46:18,763 [Worker-32: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-12-16 09:46:18,996 [Worker-31: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contactbook-slim: com.appops:contactbook-slim:0.0.1-SNAPSHOT with classifier  to /contactbook-slim/target/classes
+2022-12-16 09:46:19,004 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:46:19,004 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:46:19,006 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:46:19,006 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:46:19,209 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:46:19,211 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:46:19,212 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:46:19,213 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-slim/src/test/resources
+2022-12-16 09:46:24,249 [Worker-31: Launching Executing install in _home_ainosoft_helm Appops Service_contactbook-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ainosoft/helm Appops Service/contactbook-impl
+2022-12-16 09:46:24,249 [Worker-31: Launching Executing install in _home_ainosoft_helm Appops Service_contactbook-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-16 09:46:26,328 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:46:26,329 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:46:26,329 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:46:26,329 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:50:17,154 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:50:17,155 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:50:17,156 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:50:17,156 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:50:17,159 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:50:17,159 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:50:17,160 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:50:17,160 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-slim/src/test/resources
+2022-12-16 09:50:19,903 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:50:19,903 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:50:19,904 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:50:19,904 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:50:19,924 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:50:19,924 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:50:19,925 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:50:19,925 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-slim/src/test/resources
+2022-12-16 09:50:42,098 [Worker-35: Launching ContactEntryPoint] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contactbook-slim: com.appops:contactbook-slim:0.0.1-SNAPSHOT with classifier null to /contactbook-slim/target/classes
+2022-12-16 09:51:36,186 [Worker-31: Launching Executing clean in _home_ainosoft_helm Appops Service_contactbook-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ainosoft/helm Appops Service/contactbook-impl
+2022-12-16 09:51:36,186 [Worker-31: Launching Executing clean in _home_ainosoft_helm Appops Service_contactbook-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-12-16 09:51:37,045 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:51:37,046 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:51:37,050 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:51:37,051 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:51:54,165 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-16 09:51:54,240 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook-impl:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook-impl/pom.xml.
+2022-12-16 09:51:54,321 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contactbook-slim: com.appops:contactbook-slim:0.0.1-SNAPSHOT with classifier  to /contactbook-slim/target/classes
+2022-12-16 09:51:54,329 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook-slim:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook-slim/pom.xml.
+2022-12-16 09:51:54,523 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook-impl/src/main/java
+2022-12-16 09:51:54,523 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contactbook-impl/src/main/resources
+2022-12-16 09:51:54,523 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contactbook-impl/src/test/java
+2022-12-16 09:51:54,551 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-12-16 09:51:54,923 [Worker-36: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contactbook-slim: com.appops:contactbook-slim:0.0.1-SNAPSHOT with classifier  to /contactbook-slim/target/classes
+2022-12-16 09:51:54,934 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:51:54,935 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:51:54,936 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:51:54,937 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 09:51:55,066 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:51:55,067 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:51:55,068 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:51:55,068 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-slim/src/test/resources
+2022-12-16 09:52:02,532 [Worker-35: Launching Executing install in _home_ainosoft_helm Appops Service_contactbook-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ainosoft/helm Appops Service/contactbook-impl
+2022-12-16 09:52:02,532 [Worker-35: Launching Executing install in _home_ainosoft_helm Appops Service_contactbook-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-16 09:52:04,264 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:52:04,264 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 09:52:04,265 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 09:52:04,265 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 10:15:41,215 [Worker-42: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contactbook-impl:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contactbook-impl/pom.xml.
+2022-12-16 10:15:41,408 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:15:41,409 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:15:41,409 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:15:41,410 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 10:15:42,655 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:15:42,655 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:15:42,656 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:15:42,656 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contactbook-impl/src/test/resources
+2022-12-16 10:15:52,706 [Worker-43: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration New_configuration references non-existing project contactbook-impl.
+org.eclipse.core.runtime.CoreException: Launch configuration New_configuration references non-existing project contactbook-impl.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:62)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:48)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:523)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:401)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:818)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:148)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:83)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-16 10:15:52,707 [Worker-43: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration New_configuration references non-existing project contactbook-impl.
+org.eclipse.core.runtime.CoreException: Launch configuration New_configuration references non-existing project contactbook-impl.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:62)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:48)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:523)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:402)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:818)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:148)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:83)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-16 10:15:52,708 [Worker-43: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration New_configuration references non-existing project contactbook-impl.
+org.eclipse.core.runtime.CoreException: Launch configuration New_configuration references non-existing project contactbook-impl.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:62)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:48)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2128)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:376)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:818)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:148)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:83)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-16 10:15:52,709 [Worker-43: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration ContactEntryPoint references non-existing project contactbook-impl.
+org.eclipse.core.runtime.CoreException: Launch configuration ContactEntryPoint references non-existing project contactbook-impl.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:62)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:48)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:523)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:401)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:818)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:148)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:83)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-16 10:15:52,709 [Worker-43: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration ContactEntryPoint references non-existing project contactbook-impl.
+org.eclipse.core.runtime.CoreException: Launch configuration ContactEntryPoint references non-existing project contactbook-impl.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:62)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:48)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:523)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:402)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:818)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:148)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:83)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-16 10:15:52,711 [Worker-43: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration ContactEntryPoint references non-existing project contactbook-impl.
+org.eclipse.core.runtime.CoreException: Launch configuration ContactEntryPoint references non-existing project contactbook-impl.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:62)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:48)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2128)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:376)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:403)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:134)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:818)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:148)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:83)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-16 10:16:49,679 [Worker-42: Creating appops-br-slim-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/ainosoft/helm Appops Service/contact-slim/pom.xml
+2022-12-16 10:16:49,755 [Worker-42: Creating appops-br-slim-archetype] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contact-slim:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contact-slim/pom.xml.
+2022-12-16 10:16:50,101 [Worker-42: Creating appops-br-slim-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contact-slim/src/main/java
+2022-12-16 10:16:50,101 [Worker-42: Creating appops-br-slim-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contact-slim/src/main/resources
+2022-12-16 10:16:50,101 [Worker-42: Creating appops-br-slim-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contact-slim/src/test/java
+2022-12-16 10:16:50,126 [Worker-42: Creating appops-br-slim-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-12-16 10:16:50,448 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:16:50,449 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:16:50,450 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:16:50,450 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-slim/src/test/resources
+2022-12-16 10:17:41,044 [Worker-27: Creating appops-br-impl-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/ainosoft/helm Appops Service/contact-impl/pom.xml
+2022-12-16 10:17:41,064 [Worker-27: Creating appops-br-impl-archetype] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contact-impl:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contact-impl/pom.xml.
+2022-12-16 10:17:41,270 [Worker-27: Creating appops-br-impl-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contact-impl/src/main/java
+2022-12-16 10:17:41,270 [Worker-27: Creating appops-br-impl-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contact-impl/src/main/resources
+2022-12-16 10:17:41,270 [Worker-27: Creating appops-br-impl-archetype] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contact-impl/src/test/java
+2022-12-16 10:17:41,304 [Worker-27: Creating appops-br-impl-archetype] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-12-16 10:17:41,548 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:17:41,549 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:17:41,549 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:17:41,549 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 10:18:08,790 [Worker-44: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contact-impl:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contact-impl/pom.xml.
+2022-12-16 10:18:08,856 [Worker-44: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier  to /contact-slim/target/classes
+2022-12-16 10:18:08,998 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:08,999 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:09,000 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:09,000 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 10:18:10,269 [Worker-42: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier  to /contact-slim/target/classes
+2022-12-16 10:18:10,271 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:10,272 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:10,272 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:10,272 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 10:18:17,326 [Worker-27: Launching Executing clean in _home_ainosoft_helm Appops Service_contact-slim] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ainosoft/helm Appops Service/contact-slim
+2022-12-16 10:18:17,326 [Worker-27: Launching Executing clean in _home_ainosoft_helm Appops Service_contact-slim] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-12-16 10:18:18,225 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:18,226 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:18,227 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:18,227 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 10:18:18,233 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:18,233 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:18,234 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:18,234 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-slim/src/test/resources
+2022-12-16 10:18:26,828 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-16 10:18:26,876 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contact-impl:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contact-impl/pom.xml.
+2022-12-16 10:18:26,980 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier  to /contact-slim/target/classes
+2022-12-16 10:18:26,996 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contact-slim:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contact-slim/pom.xml.
+2022-12-16 10:18:27,228 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contact-slim/src/main/java
+2022-12-16 10:18:27,229 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contact-slim/src/main/resources
+2022-12-16 10:18:27,229 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contact-slim/src/test/java
+2022-12-16 10:18:27,252 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-12-16 10:18:27,495 [Worker-43: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier  to /contact-slim/target/classes
+2022-12-16 10:18:27,502 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:27,504 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:27,506 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:27,507 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 10:18:27,575 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:27,575 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:27,576 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:27,576 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-slim/src/test/resources
+2022-12-16 10:18:28,728 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:28,729 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:28,729 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:28,729 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 10:18:31,077 [Worker-44: Launching Executing install in _home_ainosoft_helm Appops Service_contact-slim] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ainosoft/helm Appops Service/contact-slim
+2022-12-16 10:18:31,077 [Worker-44: Launching Executing install in _home_ainosoft_helm Appops Service_contact-slim] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-16 10:18:32,826 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:32,827 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:32,828 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:32,828 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-slim/src/test/resources
+2022-12-16 10:18:38,024 [Worker-42: Launching Executing clean in _home_ainosoft_helm Appops Service_contact-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ainosoft/helm Appops Service/contact-impl
+2022-12-16 10:18:38,024 [Worker-42: Launching Executing clean in _home_ainosoft_helm Appops Service_contact-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-12-16 10:18:38,910 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:38,911 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:38,913 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:38,913 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 10:18:48,506 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-16 10:18:48,552 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contact-impl:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contact-impl/pom.xml.
+2022-12-16 10:18:48,616 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier  to /contact-slim/target/classes
+2022-12-16 10:18:48,621 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.appops:contact-slim:0.0.1-SNAPSHOT @ /home/ainosoft/helm Appops Service/contact-slim/pom.xml.
+2022-12-16 10:18:48,868 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contact-impl/src/main/java
+2022-12-16 10:18:48,868 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /contact-impl/src/main/resources
+2022-12-16 10:18:48,868 [Worker-42: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /contact-impl/src/test/java
+2022-12-16 10:18:48,892 [Worker-42: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-12-16 10:18:49,135 [Worker-46: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier  to /contact-slim/target/classes
+2022-12-16 10:18:49,142 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:49,143 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:49,144 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:49,144 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 10:18:49,350 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:49,351 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:18:49,351 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:18:49,351 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-slim/src/test/resources
+2022-12-16 10:19:05,240 [Worker-27: Launching Executing install in _home_ainosoft_helm Appops Service_contact-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/ainosoft/helm Appops Service/contact-impl
+2022-12-16 10:19:05,240 [Worker-27: Launching Executing install in _home_ainosoft_helm Appops Service_contact-impl] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-12-16 10:19:11,584 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:19:11,585 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:19:11,586 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:19:11,586 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 10:19:19,973 [Worker-27: Launching ContactEntryPoint (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier null to /contact-slim/target/classes
+2022-12-16 10:25:48,697 [Worker-45: Launching ContactEntryPoint (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier null to /contact-slim/target/classes
+2022-12-16 10:27:03,393 [Worker-49: Launching ContactEntryPoint (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier null to /contact-slim/target/classes
+2022-12-16 10:28:03,264 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:28:03,265 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 10:28:03,265 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 10:28:03,265 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 10:28:09,092 [Worker-55: Launching ContactEntryPoint (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier null to /contact-slim/target/classes
+2022-12-16 11:05:07,870 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:05:07,871 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:05:07,874 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:05:07,874 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:05:33,422 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:05:33,422 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:05:33,422 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:05:33,423 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:08:19,535 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:08:19,536 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:08:19,536 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:08:19,537 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:27:23,116 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:27:23,117 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:27:23,119 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:27:23,120 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:28:27,299 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:28:27,299 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:28:27,300 [Worker-63: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:28:27,300 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:30:10,413 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:30:10,414 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:30:10,416 [Worker-61: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:30:10,417 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:32:49,922 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:32:49,923 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:32:49,923 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:32:49,923 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:33:11,147 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:33:11,148 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:33:11,148 [Worker-62: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:33:11,148 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:47:42,531 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:47:42,531 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:47:42,532 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:47:42,533 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:50:36,824 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:50:36,825 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:50:36,825 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:50:36,825 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:50:37,883 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:50:37,883 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:50:37,884 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:50:37,884 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:51:19,420 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:51:19,420 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:51:19,421 [Worker-64: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:51:19,421 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-16 11:51:35,255 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:51:35,256 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-16 11:51:35,257 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-16 11:51:35,257 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ainosoft/helm Appops Service/contact-impl/src/test/resources
+2022-12-19 09:52:12,027 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-19 10:43:52,581 [Worker-40: Launching ContactEntryPoint (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier  to /contact-slim/target/classes
+2022-12-19 10:43:52,638 [Worker-40: Launching ContactEntryPoint (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier null to /contact-slim/target/classes
+2022-12-19 17:44:18,311 [Worker-171: Launching ContactEntryPoint (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier null to /contact-slim/target/classes
+2022-12-20 09:37:02,911 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 15:10:05,641 [Worker-129: Launching ContactEntryPoint (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier  to /contact-slim/target/classes
+2022-12-20 15:10:05,700 [Worker-129: Launching ContactEntryPoint (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/contact-slim: com.appops:contact-slim:0.0.1-SNAPSHOT with classifier null to /contact-slim/target/classes
+2022-12-26 09:38:47,240 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

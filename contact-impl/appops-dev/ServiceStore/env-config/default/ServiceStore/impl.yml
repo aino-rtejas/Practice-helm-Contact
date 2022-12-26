@@ -1,0 +1,4 @@
+annotationClass: "org.appops.slim.base.core.ServiceStore"
+modules:
+    - "org.appops.service.impl.guice.ServiceStoreModule"
+    - org.appops.logging.guice.DefaultLoggerModule
