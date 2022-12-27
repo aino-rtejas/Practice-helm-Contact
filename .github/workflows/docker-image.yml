@@ -17,3 +17,7 @@ jobs:
     - name: Build the Docker image
       working-directory: ./contact-impl/appops-dev
       run: docker-compose up --build -d
+      
+    - name: Build the application Docker image
+      working-directory: ./contact-impl
+      run: docker-compose up --build -d
