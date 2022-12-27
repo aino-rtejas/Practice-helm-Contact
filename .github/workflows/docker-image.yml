@@ -20,4 +20,4 @@ jobs:
       
     - name: Build the application Docker image
       working-directory: ./contact-impl
-      run: docker-compose up --build -d
+      run: docker build . --file Dockerfile --tag contact:$(date +%s)
