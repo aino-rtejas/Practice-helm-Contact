@@ -20,4 +20,6 @@ jobs:
       
     - name: Build the application Docker image
       working-directory: ./contact-impl
-      run: docker build . --file Dockerfile --tag contact:$(date +%s)
+      run: |
+            docker build . --file Dockerfile --tag contact:$(date +%s)
+            docker run contact
