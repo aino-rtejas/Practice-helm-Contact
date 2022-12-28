@@ -22,4 +22,4 @@ jobs:
       working-directory: ./contact-impl
       run: |
             docker build . --file Dockerfile --tag contact:$(date +%s)
-            docker run contact
+           
