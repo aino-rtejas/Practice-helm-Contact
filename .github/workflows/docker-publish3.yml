@@ -20,4 +20,4 @@ jobs:
           echo ${{ secrets.DOCKER_PASSWORD}} |sudo docker login ghcr.io -u aino-rtejas --password-stdin
           docker build . --file Dockerfile --tag ghcr.io/aino-rtejas/contact:latest
           docker images
-          docker push ghcr.io/aino-rtejas/contact-latest
+          docker push ghcr.io/aino-rtejas/contact:latest
