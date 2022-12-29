@@ -19,3 +19,4 @@ jobs:
       run: |
           echo ${{ secrets.DOCKER_PASSWORD}} |sudo docker login ghcr.io -u aino-rtejas --password-stdin
           docker-compose up --build -d
+          docker images
