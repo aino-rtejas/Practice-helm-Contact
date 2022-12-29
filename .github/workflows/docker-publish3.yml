@@ -15,9 +15,9 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build push the Docker image
-      working-directory: ./contact-impl/appops-dev
+      working-directory: ./contact-impl
       run: |
           echo ${{ secrets.DOCKER_PASSWORD}} |sudo docker login ghcr.io -u aino-rtejas --password-stdin
-          docker-compose up --build -d
+          docker build . --file Dockerfile --tag contact:latest
           docker images
-          docker push appops-dev_apache2
+          docker push contact:latest
